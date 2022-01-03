@@ -91,7 +91,7 @@ pip3 install PyQt5
 ---
 ## Getting Started
 ```
-git clone https://github.com/dilip29/Summer-Training-Python-development/
+git clone https://github.com/sanket560/cricket-game-using-PYQT/
 ```
 * install the required tools 
 
